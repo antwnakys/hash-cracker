@@ -1,6 +1,6 @@
 # 🔓 hash-cracker
 
-![Python](https://img.shields.io/badge/Python-3776AB-?style=flat&logo=python&logoColor=white) ![Tests](https://img.shields.io/badge/tests-12%20passing-brightgreen?style=flat) ![License](https://img.shields.io/badge/license-MIT-green?style=flat) ![Dependencies](https://img.shields.io/badge/dependencies-stdlib%20only-lightgrey?style=flat)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Tests](https://img.shields.io/badge/tests-12%20passing-brightgreen?style=flat) ![License](https://img.shields.io/badge/license-MIT-green?style=flat) ![Dependencies](https://img.shields.io/badge/dependencies-stdlib%20only-lightgrey?style=flat)
 
 Identify an unknown hash's algorithm, then **dictionary-crack** it by recomputing
 digests against a wordlist. A hands-on demonstration of *why fast, unsalted
